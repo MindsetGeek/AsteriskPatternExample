@@ -22,6 +22,18 @@ namespace AsteriskPatternExample
                 }
                 Console.WriteLine();
             }
+            for (int i = 0; i < 20; i++)
+            {
+                for (int j = 20; j > i; j--)
+                {
+                    Console.Write(" ");
+                }
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
