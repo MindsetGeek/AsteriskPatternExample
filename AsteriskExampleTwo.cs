@@ -10,9 +10,9 @@ namespace AsteriskPatternExample
     {
         public void ExampleLogic()
         {
-            for (int i = 1; i <= 20; i++)
+            for (int i = 1; i <= 15; i++)
             {
-                for (int j = 1; j <= i; j++)
+                for (int j = 20; j >= i; j--)
                 {
                     Console.Write("* ");
                 }
