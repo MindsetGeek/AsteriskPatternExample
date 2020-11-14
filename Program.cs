@@ -10,8 +10,8 @@ namespace AsteriskPatternExample
     {
         static void Main(string[] args)
         {
-            AsteriskExampleThee obj = new AsteriskExampleThee();
-            obj.PatternPrint();
+            NumberPatternOne obj = new NumberPatternOne();
+            obj.NumberPatternPrint();
 
 
             Console.ReadLine();
