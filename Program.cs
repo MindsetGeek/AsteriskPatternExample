@@ -11,7 +11,7 @@ namespace AsteriskPatternExample
         static void Main(string[] args)
         {
             NumberPatternOne obj = new NumberPatternOne();
-            obj.NumberPatternPrint();
+            obj.NumberPatternPrintTwo();
 
 
             Console.ReadLine();
