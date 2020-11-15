@@ -10,8 +10,8 @@ namespace AsteriskPatternExample
     {
         static void Main(string[] args)
         {
-            ForEachExample obj = new ForEachExample();
-            obj.ExampleCodeTwo();
+            WhileLoopExample obj = new WhileLoopExample();
+            obj.Examplehile();
 
             Console.ReadLine();
         }
