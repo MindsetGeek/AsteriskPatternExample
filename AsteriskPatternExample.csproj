@@ -46,6 +46,7 @@
     <Compile Include="AsteriskExampleThee.cs" />
     <Compile Include="AsteriskExampleTwo.cs" />
     <Compile Include="AsteriskPatternOne.cs" />
+    <Compile Include="Calculator.cs" />
     <Compile Include="ForEachExample.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="NumberPatternOne.cs" />
