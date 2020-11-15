@@ -47,6 +47,7 @@
     <Compile Include="AsteriskExampleTwo.cs" />
     <Compile Include="AsteriskPatternOne.cs" />
     <Compile Include="ForEachExample.cs" />
+    <Compile Include="Models\Student.cs" />
     <Compile Include="NumberPatternOne.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
